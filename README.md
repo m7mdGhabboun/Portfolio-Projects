@@ -1,63 +1,74 @@
-Portfolio Projects
+#Portfolio Projects
 
 I'm a computer science undergraduate focusing on data analysis, visualization, and uncovering meaningful insights from data.
 This repository showcases a collection of my data projects, each demonstrating practical skills in cleaning, exploring, visualizing, and interpreting datasets.
 
-📁 Project Categories
+---
 
-This portfolio includes projects covering:
+#Project Categories
 
-Data Cleaning
+##This portfolio includes projects covering:
 
-Exploratory Data Analysis (EDA)
+* Data Cleaning
 
-Dashboards & Visualization
+* Exploratory Data Analysis (EDA)
 
-Correlation & Statistical Relationships in Python
+* Dashboards & Visualization
 
-End-to-end workflows (Data cleaning → EDA → Visualization) as done in my NASA Space Apps Hackathon project
+* Correlation & Statistical Relationships in Python
 
-🛠 Tools & Technologies
+* End-to-end workflows (Data cleaning → EDA → Visualization) as done in my NASA Space Apps Hackathon project
 
-The projects in this repository use:
+---
 
-Python: Pandas, NumPy, Matplotlib, Seaborn
+#Tools & Technologies
 
-SQL
+##The projects in this repository use:
 
-Tableau
+* Python: Pandas, NumPy, Matplotlib, Seaborn
 
-Excel (used in some projects, though files aren't included)
+* SQL
 
-📂 Repository Structure
+* Tableau
 
-Each project is placed in its own folder for easy navigation:
+* Excel (used in some projects, though files aren't included)
 
-Project-1/
+---
 
-Project-2/
+#Repository Structure
 
-Project-3/
+##Each project is placed in its own folder for easy navigation:
 
-Project-4/
+* Project-1/
 
-NASA-Space-Apps-Project/ (featured)
+* Project-2/
 
-⭐ Highlighted Project
-NASA Space Apps Hackathon Project
+* Project-3/
+
+* Project-4/
+
+* NASA-Space-Apps-Project/ (featured)
+
+---
+
+#Highlighted Project
+##NASA Space Apps Hackathon Project
 
 My favorite and most comprehensive project in this repo.
 It included:
 
-Dataset preparation for an AI model
+* Dataset preparation for an AI model
 
-Data cleaning
+* Data cleaning
 
-Exploratory data analysis
+* Exploratory data analysis
 
-Meaningful visualizations
-This project combined multiple data skills into a single, end-to-end workflow.
+* Meaningful visualizations
+  
+  This project combined multiple data skills into a single, end-to-end workflow.
 
-🎯 Purpose of This Repository
+---
+
+#Purpose of This Repository
 
 The main purpose of this portfolio is to give potential employers and collaborators clear, organized access to the data projects I've worked on — showcasing my skills in analysis, visualization, problem-solving, and building insights from real-world datasets.
