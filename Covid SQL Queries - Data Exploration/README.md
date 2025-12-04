@@ -11,7 +11,7 @@ The goal is to uncover meaningful insights regarding cases, deaths, infections, 
 
 * Insight extraction to answer key questions such as:
 
-  1. COVID-19 death percentages per country
+1. COVID-19 death percentages per country
 
   2. Countries and continents with the highest infection and death rates
 
