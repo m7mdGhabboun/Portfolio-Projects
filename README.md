@@ -26,7 +26,7 @@ This repository showcases a collection of my data projects, each demonstrating p
 
 # Tools & Technologies
 
-## The projects in this repository use:
+**The projects in this repository use:**
 
 * **Python**: Pandas, NumPy, Matplotlib, Seaborn
 
@@ -41,23 +41,23 @@ This repository showcases a collection of my data projects, each demonstrating p
 
 # Repository Structure
 
-## Each project is placed in its own folder for easy navigation:
+**Each project is placed in its own folder for easy navigation:**
 
-* Project-1/
+* `Project-1/`
 
-* Project-2/
+* `Project-2/`
 
-* Project-3/
+* `Project-3/`
 
-* Project-4/
+* `Project-4/`
 
-* NASA-Space-Apps-Project/ *(featured)*
+* `NASA-Space-Apps-Project/` *(featured)*
 
 
 
 
 # Highlighted Project
-## NASA Space Apps Hackathon Project
+**NASA Space Apps Hackathon Project**
 
 My favorite and most comprehensive project in this repo.
 It included:
