@@ -3,7 +3,7 @@
 This project explores global COVID-19 data through SQL-based analysis.
 The goal is to uncover meaningful insights regarding cases, deaths, infections, and vaccination progress across different countries and continents.
 
-# 📊 Description
+# Description
 
 **This project includes:**
 
@@ -19,7 +19,7 @@ The goal is to uncover meaningful insights regarding cases, deaths, infections, 
 
   4. Vaccination rates per country
 
-# 📁 Dataset
+# Dataset
 
 * **Source**: Kaggle
 
@@ -27,11 +27,11 @@ The goal is to uncover meaningful insights regarding cases, deaths, infections, 
 
 * Contains global COVID-19 statistics including deaths, cases, population, and vaccination progress.
 
-# 🛠 Tools Used
+# Tools Used
 
 * **SQL** for data querying, aggregation, filtering, and analysis.
 
-# 🔍 Key Insights
+# Key Insights
 
 * **Andorra** recorded the highest infection rate relative to its population.
 
@@ -39,7 +39,7 @@ The goal is to uncover meaningful insights regarding cases, deaths, infections, 
 
 * **Europe** showed the highest cumulative death count among all continents.
 
-# 📥 How to Run
+# How to Run
 
 * Import the dataset into your SQL environment (MySQL, PostgreSQL, SQL Server, or SQLite).
 
