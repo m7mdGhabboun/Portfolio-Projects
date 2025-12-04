@@ -1,3 +1,15 @@
+/*
+
+Cleaning Data in SQL Queries
+
+*/
+
+
+SELECT *
+FROM PortolioProject..NashvilleHousing
+
+------------------------------------------------------------------------------
+
 -- Standardize Date Format:
 
 SELECT saleDate
