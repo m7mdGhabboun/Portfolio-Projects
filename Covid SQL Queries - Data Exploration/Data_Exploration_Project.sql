@@ -150,7 +150,7 @@ FROM #VaccinationPercentage
 
 -------------------------------------------------
 
--- View for storing data for later Visualization
+-- Creating View to store data for later Visualization
 CREATE VIEW VaccinationPercentage AS
 SELECT dea.continent, dea.location, dea.date, dea.population, vac.new_vaccinations, SUM(CONVERT(INT, vac.new_vaccinations)) OVER (PARTITION BY
 dea.location ORDER BY dea.location, dea.date) AS Rolling_Vaccinations
@@ -160,5 +160,6 @@ JOIN PortfolioProject..CovidVaccinations vac
 	AND dea.date = vac.date
 WHERE dea.continent IS NOT NULL
 --ORDER BY 2,3
+
 
 
