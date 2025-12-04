@@ -1,13 +1,13 @@
-#Portfolio Projects
+# Portfolio Projects
 
 I'm a computer science undergraduate focusing on data analysis, visualization, and uncovering meaningful insights from data.
 This repository showcases a collection of my data projects, each demonstrating practical skills in cleaning, exploring, visualizing, and interpreting datasets.
 
 ---
 
-#Project Categories
+# Project Categories
 
-##This portfolio includes projects covering:
+## This portfolio includes projects covering:
 
 * Data Cleaning
 
@@ -21,9 +21,9 @@ This repository showcases a collection of my data projects, each demonstrating p
 
 ---
 
-#Tools & Technologies
+# Tools & Technologies
 
-##The projects in this repository use:
+## The projects in this repository use:
 
 * Python: Pandas, NumPy, Matplotlib, Seaborn
 
@@ -35,9 +35,9 @@ This repository showcases a collection of my data projects, each demonstrating p
 
 ---
 
-#Repository Structure
+# Repository Structure
 
-##Each project is placed in its own folder for easy navigation:
+## Each project is placed in its own folder for easy navigation:
 
 * Project-1/
 
@@ -51,8 +51,8 @@ This repository showcases a collection of my data projects, each demonstrating p
 
 ---
 
-#Highlighted Project
-##NASA Space Apps Hackathon Project
+# Highlighted Project
+## NASA Space Apps Hackathon Project
 
 My favorite and most comprehensive project in this repo.
 It included:
@@ -69,6 +69,6 @@ It included:
 
 ---
 
-#Purpose of This Repository
+# Purpose of This Repository
 
 The main purpose of this portfolio is to give potential employers and collaborators clear, organized access to the data projects I've worked on — showcasing my skills in analysis, visualization, problem-solving, and building insights from real-world datasets.
