@@ -36,7 +36,7 @@ The workflow was designed to transform the raw dataset into a reliable, structur
 * Tableau
 
 # What I Did
-## Data Cleaning
+## 1. Data Cleaning
 
 NASA provided research papers documenting their own preprocessing steps for KOI datasets.
 I followed their methodology to prepare a clean dataset suitable for our AI model:
@@ -53,7 +53,7 @@ I followed their methodology to prepare a clean dataset suitable for our AI mode
 
 **4.** Ensured data consistency, resolved formatting issues, and verified integrity using SQL
 
-## EDA
+## 2. EDA
 
 * Explored key astrophysical patterns and anomalies
 
@@ -61,7 +61,7 @@ I followed their methodology to prepare a clean dataset suitable for our AI mode
 
 * (Note: SQL queries used to perform EDA were demonstrated live during the event but cannot be included in the repo)
 
-# Visualization
+## 3. Visualization
 
 * Created **SQL views** to structure the cleaned dataset for visualization
 
