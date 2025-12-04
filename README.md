@@ -3,37 +3,43 @@
 I'm a computer science undergraduate focusing on data analysis, visualization, and uncovering meaningful insights from data.
 This repository showcases a collection of my data projects, each demonstrating practical skills in cleaning, exploring, visualizing, and interpreting datasets.
 
+
 ---
+
 
 # Project Categories
 
 ## This portfolio includes projects covering:
 
-* Data Cleaning
+* **Data Cleaning**
 
-* Exploratory Data Analysis (EDA)
+* **Exploratory Data Analysis (EDA)**
 
-* Dashboards & Visualization
+* **Dashboards & Visualization**
 
-* Correlation & Statistical Relationships in Python
+* **Correlation & Statistical Relationships in Python**
 
-* End-to-end workflows (Data cleaning → EDA → Visualization) as done in my NASA Space Apps Hackathon project
+* **End-to-end workflows** (Data cleaning → EDA → Visualization) as done in my NASA Space Apps Hackathon project
+
 
 ---
+
 
 # Tools & Technologies
 
 ## The projects in this repository use:
 
-* Python: Pandas, NumPy, Matplotlib, Seaborn
+* **Python**: Pandas, NumPy, Matplotlib, Seaborn
 
-* SQL
+* **SQL**
 
-* Tableau
+* **Tableau**
 
-* Excel (used in some projects, though files aren't included)
+* **Excel** (used in some projects, though files aren't included)
+
 
 ---
+
 
 # Repository Structure
 
@@ -47,9 +53,11 @@ This repository showcases a collection of my data projects, each demonstrating p
 
 * Project-4/
 
-* NASA-Space-Apps-Project/ (featured)
+* NASA-Space-Apps-Project/ *(featured)*
+
 
 ---
+
 
 # Highlighted Project
 ## NASA Space Apps Hackathon Project
@@ -67,7 +75,9 @@ It included:
   
   This project combined multiple data skills into a single, end-to-end workflow.
 
+
 ---
+
 
 # Purpose of This Repository
 
