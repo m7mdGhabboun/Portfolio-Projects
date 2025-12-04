@@ -4,12 +4,11 @@ I'm a computer science undergraduate focusing on data analysis, visualization, a
 This repository showcases a collection of my data projects, each demonstrating practical skills in cleaning, exploring, visualizing, and interpreting datasets.
 
 
----
 
 
 # Project Categories
 
-## This portfolio includes projects covering:
+**This portfolio includes projects covering:**
 
 * **Data Cleaning**
 
@@ -22,7 +21,7 @@ This repository showcases a collection of my data projects, each demonstrating p
 * **End-to-end workflows** (Data cleaning → EDA → Visualization) as done in my NASA Space Apps Hackathon project
 
 
----
+
 
 
 # Tools & Technologies
@@ -38,7 +37,6 @@ This repository showcases a collection of my data projects, each demonstrating p
 * **Excel** (used in some projects, though files aren't included)
 
 
----
 
 
 # Repository Structure
@@ -56,7 +54,6 @@ This repository showcases a collection of my data projects, each demonstrating p
 * NASA-Space-Apps-Project/ *(featured)*
 
 
----
 
 
 # Highlighted Project
@@ -76,7 +73,6 @@ It included:
   This project combined multiple data skills into a single, end-to-end workflow.
 
 
----
 
 
 # Purpose of This Repository
