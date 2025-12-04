@@ -29,13 +29,13 @@ The analysis focuses primarily on discovering which attributes have the highest 
 
 * Python
 
-* NumPy
+  * NumPy
 
-* Pandas
+  * Pandas
 
-* Seaborn
+  * Seaborn
 
-* Matplotlib
+  * Matplotlib
 
 # What I Did
 
